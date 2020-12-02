@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Michael Jackson",
+      "songs": ["Billie Jean", "Smooth Criminal", "You Rock My World"]
+    },
+    {
+      "name": "Justin Bieber",
+      "songs": ["Sorry", "What Do You Mean", "Beauty and a Beat"]
+    },
+    {
+      "name": "Justin Timberlake",
+      "songs": ["Cry Me A River", "What Goes Around", "Can't Stop The Feeling"]
+    },
+    {
+      "name": "Stevie Wonder",
+      "songs": ["Superstition", "Heaven Help Us All", "Signed, Sealed, Delivered"]
+    }
+]
